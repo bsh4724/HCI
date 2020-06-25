@@ -6,6 +6,8 @@
 > Due to COVID 19's global trend, many schools and universities offer online classes. However, since online classes are currently centered on lectures, they have not enough interaction between students and teachers. Through this problem, out team decided to find and apply measures to stimulate insufficient interaction. As a method of activating interaction, the built-in webcam of the laptop and the desktop computer will be used with hand detection and face recognition.
 To resolve lack of interaction between teachers and students,  we aim to raise students’ concentration by using visual effects to encourage students. also, we aim to enable teachers to know students’ concentration and understanding during lectures. 
 
+--------------------------------------------------------------------
+
 ### (2) Main contents
 #### - How to build our program
 > we use hand detection and face landmarks openCV and PyQt5 to build our program
@@ -24,6 +26,7 @@ To resolve lack of interaction between teachers and students,  we aim to raise s
 ![3-4](https://user-images.githubusercontent.com/55008782/85683708-6f1cc800-b708-11ea-8f3b-e34704bdf976.png)
 ![3-5](https://user-images.githubusercontent.com/55008782/85683713-704df500-b708-11ea-94d7-99cf87d91c0b.png)
 
+---------------------------------------------------------------------------------------------------------------
 
 #### Explanation of source code
 
