@@ -6,5 +6,5 @@
 To resolve lack of interaction between teachers and students,  we aim to raise students’ concentration by using visual effects to encourage students. also, we aim to enable teachers to know students’ concentration and understanding during lectures. 
 
 ### (2) Main contents
-#### How to build our program
+#### - How to build our program
 > we use hand detection and face landmarks openCV and PyQt5 to build our program
