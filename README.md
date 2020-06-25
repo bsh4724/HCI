@@ -9,3 +9,5 @@ To resolve lack of interaction between teachers and students,  we aim to raise s
 ### (2) Main contents
 #### - How to build our program
 > we use hand detection and face landmarks openCV and PyQt5 to build our program
+
+![2-1](https://user-images.githubusercontent.com/55008782/85679573-7d68e500-b704-11ea-9e1f-534be0d5bd27.png)
