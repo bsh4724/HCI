@@ -3,7 +3,7 @@
 #### 21600259 박성경, 21700326 반수현, 21700729 최슬기, 21800639 장하리
 ### (1) Introduction 
 #### - Background and goal of our research
-> Due to COVID 19's global trend, many schools and universities offer online classes. However, since online classes are currently centered on lectures, they have not enough interaction between students and teachers. Through this problem, out team decided to find and apply measures to stimulate insufficient interaction. As a method of activating interaction, the built-in webcam of the laptop and the desktop computer will be used with hand detection and face recognition.
+> 코로나 사태로 인해 초등학교부터 대학교까지 많은 학교들이 온라인 수업으로 학기를 진행했다. 그러나 대면수업과는 달리 온라인 수업은 학생과 교사의 상호작용적인 수업이 아닌, 수업화면과 수업에 기반인 수업이 진행되었다. 그래서 기존 수업과는 달리 학생들과 교사들 사이의 상호작용이 원활하지 않다는 문제점을 통하여, Through this problem, out team decided to find and apply measures to stimulate insufficient interaction. As a method of activating interaction, the built-in webcam of the laptop and the desktop computer will be used with hand detection and face recognition.
 To resolve lack of interaction between teachers and students,  we aim to raise students’ concentration by using visual effects to encourage students. also, we aim to enable teachers to know students’ concentration and understanding during lectures. 
 
 --------------------------------------------------------------------
@@ -37,7 +37,7 @@ To resolve lack of interaction between teachers and students,  we aim to raise s
 -----------------------------------------------------
 
 
-#### Explanation of source code
+#### - Explanation of source code
 
 1. git에서 해당되는 소스파일을 clone 해온다.
 ```
@@ -74,3 +74,4 @@ python application.py
 ```
 
 ------------------------------------------------------------------------------
+
