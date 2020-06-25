@@ -14,7 +14,7 @@ To resolve lack of interaction between teachers and students,  we aim to raise s
 
 ![2-1](https://user-images.githubusercontent.com/55008782/85679573-7d68e500-b704-11ea-9e1f-534be0d5bd27.png)
 
-
+-----------------------------------------------------
 #### - Paper prototype
 
 > we have two version of paper prototype, teachers and students
