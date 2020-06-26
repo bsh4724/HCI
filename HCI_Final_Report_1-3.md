@@ -63,7 +63,7 @@ git clone https://github.com/csg17/HCI
 3. pyqt 설치하기.
 > https://mainia.tistory.com/5604
 
-4. 총 3가지의 폴더가 다운로드 받아진다. (drowsiness&sleep, zoom_version2_pyqt2, finger_counting)
+4. 총 4가지의 폴더가 다운로드 받아진다. (drowsiness&sleep, zoom_version2_pyqt2, finger_counting, prof)
 > 졸거나 하품할 때 알림이 나오는 코드를 실행하려면 drowsiness&sleep을 들어간다.
 ```
 cd drowsiness&sleep
